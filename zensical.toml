@@ -39,6 +39,8 @@ nav = [
     ] },
     { "我的谜题" = [
         {"非马"= "Puzzles/01/puzzle.md"},
+        {"小谜"= "Puzzles/02/puzzle.md"},
+        {"三极"= "Puzzles/03/puzzle.md"},
     ] },
     { "题解记录"=[
         {"首页"="Blogs/"},
