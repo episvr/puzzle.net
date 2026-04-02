@@ -35,7 +35,7 @@ nav = [
         {"史官记录"="Resources/03history.md"},
         {"解题工具"="Resources/04tools.md"},
         {"其他记录"="Resources/05other.md"},
-        {"我的推荐"="Resources/06recommend.md"},
+        {"我的推荐"="Resources/06recommends.md"},
     ] },
     { "我的谜题" = [
         {"非马"= "Puzzles/01/puzzle.md"},
