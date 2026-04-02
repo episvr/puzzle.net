@@ -24,8 +24,6 @@ icon: lucide/warehouse
 - [Minute Cryptic](https://www.minutecryptic.com/)
 - [Cryptic Quintagram](https://amwayy.github.io/puzzles/quintagram/)
 - [Figure Game](https://figure.game/zh)
-- [Categories](https://www.categoriesdaily.com/)
-- [Sets](https://www.setgame.com/set/puzzle)
 - [Word association](https://3fallpuzzle.com/#/)
 - [图寻](https://tuxun.fun/daily-challenge/china)
 - [炒饭小测验](https://xiaoce.fun/)
@@ -35,6 +33,7 @@ icon: lucide/warehouse
 
 - [puzzlink](https://puzz.link/)
 - [pzprxs](https://pzprxs.vercel.app/)
+- [cnpuzcon](https://cnpuzcon.top/)
 
 ## 日式
 

@@ -24,6 +24,7 @@ nav = [
         { "Puzzlehunt 介绍" = "Started/detail.md"},
         { "5 分钟解释 puzzlehunt" = "Started/simple.md" },
     ] },
+    {"每日活动"="Games/index.md"},
     { "克隆文档" = [
         {"一个声明"="Clone/index.md"},
         {"尝试了吗"="Clone/try.md"},
