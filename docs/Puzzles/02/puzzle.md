@@ -36,7 +36,7 @@ const config = {
     }
   ]
 };
-document.addEventListener("DOMContentLoaded", function () {
-    bindAnswerBox(config);
+zensical.document$.subscribe(function() {
+  bindAnswerBox(config);
 });
 </script>
