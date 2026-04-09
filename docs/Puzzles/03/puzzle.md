@@ -14,7 +14,7 @@ icon: lucide/magnet
 <p id="result"></p>
 
 <script>
-const config = {
+config = {
   "meta": {
     "version": 1
   },
@@ -33,7 +33,7 @@ const config = {
     }
   ]
 };
-zensical.document$.subscribe(function() {
+document$.subscribe(function() {
   bindAnswerBox(config);
 });
 </script>
