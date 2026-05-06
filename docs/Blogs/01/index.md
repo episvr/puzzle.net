@@ -45,7 +45,7 @@ PTERODACTYL
 
 可能是最明显的一个。
 
-Th*e art h*ouse **contains** [dirt]
+Th*e art h*ouse **contains** dirt
 
 不出五步必有解药。
 
